@@ -32,4 +32,4 @@ You can perform the above steps in making sure that the rest of the libraries
 ```
 
 # Note: Google Colab
-If you intend to use Colab -- I will highly suggest you first create a Gmail account if you don't have one. Then clone the github folder from https://github.com/febikamBU/Hands-on-ML-Project-for-CS-767.git
+If you intend to use Colab -- I will highly suggest you first create a Gmail account if you don't have one. Then clone the github folder from https://github.com/febikamBU/Hands_On_ML_Projects.git
